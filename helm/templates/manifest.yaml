@@ -5,7 +5,7 @@ metadata:
   namespace: roboshop
 data:
   CART_ENDPOINT: "cart:8080"
-  DB_HOST: roboshop-dev.czn6yzxlcsiv.us-east-1.rds.amazonaws.com
+  DB_HOST: roboshop-dev.c7i8ws8igbwq.us-east-1.rds.amazonaws.com
 ---
 apiVersion: apps/v1
 kind: Deployment
